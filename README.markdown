@@ -1,3 +1,5 @@
+#FAQ
+
 ### lol what's this repo for
 Sample input and output to help you test your Spring 2012 CS240 assignments (at the time of this writing I'm a student in that class).
 
